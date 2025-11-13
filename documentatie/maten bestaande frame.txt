@@ -1,0 +1,8 @@
+maten bestaande frame
+alle maten zijn buitenmaten in mm
+lengte: 	610
+breedte: 	410
+hoogte: 	630
+profile:	30x30
+lengte poten:	100
+aantal hoekjes:	16
