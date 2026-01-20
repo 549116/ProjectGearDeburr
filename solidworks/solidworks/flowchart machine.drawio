@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
+  <diagram name="Pagina-1" id="qPI_3Aj2YpDJZ98wB09i">
+    <mxGraphModel dx="1034" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t9axm3elVbQGfG4Cp66b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-1" value="operator will choose gear type" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-3" value="program will be set for the correct gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-5" value="input gear in machine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-7" value="pneumatic cilinder will clamp the gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-9" target="t9axm3elVbQGfG4Cp66b-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-9" value="Dc motor drives turntable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-10" value="actuator will go to the correct diameter setting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-13" value="Pneumatic cilinder pushes steel brush on gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-17" target="t9axm3elVbQGfG4Cp66b-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-17" value="dc motor drives steelbrush" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-20" value="wait until the turntable rotates for 360 degrees" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-22" value="pneumatic cilinder takes steelbrush of gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-24" value="dc motor steel brush stops" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-26" value="dc motor turntable stops" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-28" value="actuator moves to home" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9axm3elVbQGfG4Cp66b-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-30" value="pneumatic cilinder releases gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t9axm3elVbQGfG4Cp66b-32" value="output gear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
